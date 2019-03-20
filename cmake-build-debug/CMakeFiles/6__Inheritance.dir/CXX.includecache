@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Commission.cpp
+iostream
+-
+string
+-
+Commission.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Commission.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Commission.h
+Hourly.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Hourly.h
+StaffMember.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/StaffMember.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Employee.cpp
+string
+-
+iostream
+-
+Employee.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Employee.h
+Executive.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Executive.h
+Hourly.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Hourly.h
+Commission.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Commission.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Employee.h
+string
+-
+StaffMember.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/StaffMember.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Executive.cpp
+iostream
+-
+string
+-
+Executive.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Executive.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Executive.h
+Employee.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Employee.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Firm.cpp
+iostream
+-
+string
+-
+StaffMember.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/StaffMember.h
+Volunteer.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Volunteer.h
+Employee.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Employee.h
+Executive.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Executive.h
+Hourly.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Hourly.h
+Commission.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Commission.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Hourly.cpp
+iostream
+-
+string
+-
+Hourly.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Hourly.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Hourly.h
+string
+-
+Employee.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Employee.h
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/StaffMember.h
+iostream
+-
+string
+-
+
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/Volunteer.h
+string
+-
+StaffMember.h
+/Users/owen/Documents/AdvancedCandC++/Projects/6) Inheritance/StaffMember.h
+
